@@ -1,0 +1,38 @@
+@media  (min-width: 480px) {
+
+    .contact-wrap { 
+        padding: 0px 300px;
+    }
+
+    .project-wrap{
+        padding: 0px 150px;
+    }
+    /* .hero-img{
+        display: none;
+    } */
+
+}
+
+@media  (max-width: 768px) {
+
+    .contact-wrap{ 
+        padding: 0px 20px;
+    }
+
+     .hero-img{
+        display: none;
+    }
+
+    .project-wrap{
+        padding: 0px 15px;
+    }
+
+    .team-wrap{
+        max-width: 100%;
+    }
+    
+}
+   
+    
+
+ 
